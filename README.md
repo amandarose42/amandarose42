@@ -1,2 +1,1 @@
-# amandaroseortiz
-My personal README
+# Hello & Welcome!
