@@ -15,7 +15,8 @@ Currently using
 
 
 
-Have Previously Used
+#### Have Previously Used
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="35" height="35"/>
 </a>
