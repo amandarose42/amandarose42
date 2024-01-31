@@ -6,5 +6,15 @@ I am a full stack developer currently located in Minnesota!
 
  - 💻 I'm currently working as a Network Technician 1/Web Developer at Wadena County Courthouse in Wadena, MN.
  - 📥 You can reach me at:
-  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandaroseortiz/)
-  - [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaroseortiz42@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandaroseortiz/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaroseortiz42@gmail.com)
+
+-------
+
+### Languages and Tools: 
+Currently using
+
+
+
+Have Previously Used
+[![image](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg)](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg)
+-------
