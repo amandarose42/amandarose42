@@ -28,10 +28,9 @@ Currently using
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/></a>  
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="50"/></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"><img src="" width="50" height="50"/></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="50" height="50"/></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="50"/></a>  
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="50" height="50"/></a>  
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/></a>  
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/></a>  
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="50" height="50"/></a>  
 
