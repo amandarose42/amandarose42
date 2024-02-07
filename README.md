@@ -15,7 +15,7 @@ I am a full stack developer currently located in Minnesota!
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height="50"/></a> 
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/></a> 
@@ -33,6 +33,7 @@ I am a full stack developer currently located in Minnesota!
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="50" height="50"/></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height="50"/></a> 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="50" height="50"/></a> 
