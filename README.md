@@ -11,7 +11,8 @@ I am a full stack developer currently located in Minnesota!
 -------
 
 ### Languages and Tools: 
-Currently using
+#### Currently using
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height="50"/></a> 
@@ -26,8 +27,7 @@ Currently using
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/></a>  
-
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/></a> 
@@ -40,7 +40,6 @@ Currently using
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a> 
-
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" height="50"/></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" height="50"/></a> 
